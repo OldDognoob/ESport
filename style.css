@@ -42,4 +42,29 @@ button, button:focus {
   font-size: 22px;
 }
 
+/*Color Template*/
+.color-primary {
+  color: #003859;
+}
+
+.color--bg {
+  background: #003859;
+}
+
+.color-second {
+  color: #00A5C4;
+}
+
+.color-second-bg {
+  background: #00A5C4;
+}
+
+.color-grey {
+  color: #d1d1d1;
+}
+
+.color-grey-bg {
+  background: #d1d1d1;
+}
+
 /*# sourceMappingURL=style.css.map */
