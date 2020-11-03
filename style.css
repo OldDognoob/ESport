@@ -2,5 +2,11 @@
 /* Sass Style Template */
 /*we are going to import now the variables in this file*/
 /*Here in this file we are going to put all the css variables we are going to use*/
+/*We are going to include all the global class of the scss*/
+/*Global Classes*/
+button, button:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
 
 /*# sourceMappingURL=style.css.map */
