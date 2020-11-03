@@ -9,4 +9,37 @@ button, button:focus {
   box-shadow: none !important;
 }
 
+/*Include any typography classes*/
+.font-carme {
+  font-family: "Carme", cursive;
+}
+
+.font-rale {
+  font-family: "Raleway", cursive;
+}
+
+.font-dosis {
+  font-family: "Dosis", cursive;
+}
+
+.font-size-12 {
+  font-size: 12px;
+}
+
+.font-size-14 {
+  font-size: 14px;
+}
+
+.font-size-16 {
+  font-size: 16px;
+}
+
+.font-size-20 {
+  font-size: 20px;
+}
+
+.font-size-22 {
+  font-size: 22px;
+}
+
 /*# sourceMappingURL=style.css.map */
